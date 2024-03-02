@@ -35,8 +35,6 @@ public class employeedetails{
         return "employeedetails [name=" + name + ", id=" + id + ", address=" + address + "]";
     }
 
-
-    
       
     
 

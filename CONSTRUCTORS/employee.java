@@ -3,11 +3,11 @@ public class employee {
     {
         employeedetails bharath= new employeedetails("lucky", 1, "marthahallli");
         System.out.println(bharath);
-    
-     employeedetails apple= new employeedetails();
+            employeedetails apple= new employeedetails();
        apple.name="bharath";
        apple.id=123;
        apple.address="martha";
         System.out.println(apple);
+        System.out.println("");
     }
 }
