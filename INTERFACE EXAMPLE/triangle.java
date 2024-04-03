@@ -3,7 +3,7 @@ public class triangle implements shape,colour{
    
     @Override
     public void area(int a, int b) {
-       int area=(1/2)*a*b;
+       int area=a*b*1/2;
        System.out.println("AREA OF TRIANGLE "+area);
         
     }

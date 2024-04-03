@@ -8,7 +8,6 @@ public class pattern3 {
                     else{
               System.out.print("   ");
             }
-        
         }
         System.out.println();
     }
